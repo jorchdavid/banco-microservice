@@ -182,8 +182,4 @@ Se priorizo consistencia fuerte sobre performance.
 3. Ejecutar script SQL
 4. Probar endpoints con Postman
 
----
 
-## Autor
-
-Prueba tecnica backend - NovoBanco
